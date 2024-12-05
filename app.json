@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "pokemon",
+    "slug": "snack-6f299db6-974a-442b-bb31-e8f9823d1faf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nitinchotia2014.snack6f299db6974a442bbb31e8f9823d1faf"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000"
+      },
+      "package": "com.nitinchotia2014.snack6f299db6974a442bbb31e8f9823d1faf"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
